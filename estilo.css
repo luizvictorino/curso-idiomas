@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: verdana;
+}
+
+img {
+    width: 250px;
+    padding-top: 5px;
+}
+
+.lingua {
+    width: 50px;
+}
+
+.inicio {
+    width: 100%;
+    background-color: #c3e1e9;
+    text-align: center;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+.color {
+    color: #0291dd;
+}
+
+.fundo-azul {
+    background-color: #0291dd;
+    text-align: center;
+    padding: 10px 0;
+    margin: 25px 20px;
+
+}
+
+.geral {
+    text-align: center;
+    padding: 5px 0;
+    margin: 25px 0;
+}
+
+.rodape {
+    text-align: center;
+    padding: 10px 0;
+    width: 550px;
+    margin: 0 auto;
+}
+
+.white {
+    color: #dfdfdf;
+}
+
+.alice {
+    color: aliceblue;
+}
+
+p {
+    font-size: 20px;
+}
